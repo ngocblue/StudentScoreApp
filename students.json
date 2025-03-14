@@ -1,0 +1,47 @@
+[
+  {
+    "name": "vu ngoc",
+    "scores": [
+      6.0,
+      8.0,
+      6.0
+    ],
+    "averageScore": 6.666666666666667
+  },
+  {
+    "name": "tran lan",
+    "scores": [
+      7.0,
+      6.0,
+      4.0
+    ],
+    "averageScore": 5.666666666666667
+  },
+  {
+    "name": "dinh huong",
+    "scores": [
+      8.0,
+      7.0,
+      6.0
+    ],
+    "averageScore": 7.0
+  },
+  {
+    "name": "nguyen khai",
+    "scores": [
+      5.0,
+      8.0,
+      7.0
+    ],
+    "averageScore": 6.666666666666667
+  },
+  {
+    "name": "mai hong",
+    "scores": [
+      7.0,
+      9.0,
+      3.0
+    ],
+    "averageScore": 6.333333333333333
+  }
+]
